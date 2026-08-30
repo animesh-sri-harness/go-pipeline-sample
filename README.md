@@ -1,4 +1,4 @@
-# Go Sample Pipeline in te Harnessss
+# Go Pipeline in te Harnessss
 
 Introduction
 ========================
