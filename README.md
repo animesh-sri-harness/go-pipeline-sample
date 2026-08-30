@@ -1,4 +1,4 @@
-# Go Pipeline in te Harnessss
+# Go Pipelines in te Harnessss
 
 Introduction
 ========================
